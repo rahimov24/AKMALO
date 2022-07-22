@@ -1,0 +1,63 @@
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+ul{
+    float: right;
+    padding-right: 600px;
+    padding-top: 46px;
+}
+
+ul li{
+  display: inline-block;
+  margin-left: 100px;
+
+}
+
+h1{
+  width: 587px;
+height: 144px;
+left: 121px;
+top: 215px;
+
+font-style: normal;
+font-weight: 600;
+font-size: 48px;
+line-height: 150%;
+}
+
+p{
+  width: 485px;
+height: 81px;
+left: 121px;
+top: 383px;
+}
+
+.ikkinchi{
+  width: 180px;
+height: 588px;
+left: 732px;
+top: 80px;
+padding: 10px;
+}
+
+.uchinchi{
+  width: 180px;
+height: 588px;
+left: 936px;
+top: 161px;
+padding: 10px;
+}
+
+.tortinchi{
+  width: 180px;
+height: 588px;
+left: 1140px;
+top: 80px;
+padding: 10px;
+}
+
+
+
